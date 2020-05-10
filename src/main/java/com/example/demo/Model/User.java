@@ -1,3 +1,5 @@
+package com.example.demo.Model;
+
 public class User {
     private long Id;
     private String name;

@@ -16,7 +16,6 @@ class DummyApplicationTests {
 
 	@Test
 	public void addUse(String name,String surname){
-
 	}
 
 	@Test
