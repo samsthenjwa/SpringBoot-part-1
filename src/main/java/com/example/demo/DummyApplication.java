@@ -21,8 +21,6 @@ public class DummyApplication {
 		}catch (Exception ex){
 			ex.printStackTrace();
 		}
-
-
 	}
 
 }
